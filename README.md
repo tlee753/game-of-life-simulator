@@ -13,6 +13,7 @@ The goal is to map variables, namely board size to survability via running simul
 - number of simulations to perform before calculating board survival percentage
 - open vs closed borders (really just a smaller board if closed borders)
 
+# Non-intentionally adjustable variables
 - survivability per evolution parameters (if you look closely)
 
 ### Future updates
